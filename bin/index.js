@@ -5,7 +5,6 @@ const lambda = require("./lambda");
 const options = require('./args');
 const chalk = require("chalk");
 
-console.log('\n');
 execute();
 
 async function execute() {
